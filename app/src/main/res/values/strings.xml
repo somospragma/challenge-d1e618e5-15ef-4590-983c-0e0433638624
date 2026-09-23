@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TransferApp</string>
+    <string name="transfer_title">Transferir Fondos</string>
+    <string name="amount_label">Monto</string>
+    <string name="source_account_label">Cuenta de Origen</string>
+    <string name="destination_account_label">Cuenta de Destino</string>
+    <string name="description_label">Descripción</string>
+    <string name="transfer_button">Transferir</string>
+    <string name="error_message">Ha ocurrido un error al realizar la transferencia.</string>
+    <string name="retry_message">¿Desea reintentar la transferencia?</string>
+</resources>
